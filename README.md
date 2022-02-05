@@ -1,23 +1,13 @@
-### Language
+[![Hello~](https://github.com/ihoey/ihoey/raw/master/hello.gif)](https://github.com/DevelGao)
+<br />
 
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=Python)
-![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=C)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=TypeScript)
-![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=Java&logoColor=007396)
+[![Vistor Counter](https://count.getloli.com/get/@github_DevelGao?theme=moebooru)](https://github.com/DevelGao)
 
+![DevelGao All](https://github-readme-stats.vercel.app/api/?username=DevelGao&layout=compact&theme=algolia&hide_border=true)
+![DevelGao Language](https://github-readme-stats.vercel.app/api/top-langs/?username=DevelGao&langs_count=8&layout=compact&theme=algolia&hide_border=true)
+<br />
 
-### Technology
+A few links:
 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes)
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
-![Spring](https://img.shields.io/badge/-Spring-000?style=for-the-badge&logo=Spring)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=TensorFlow)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=Redis)
-
-
-
----
-
-When you judge others, you do not define them; you define yourself.
+- [Email](mailto:gaobei5910epkqpj@126.com)
+- [Blog](https://github.com/DevelGao)
